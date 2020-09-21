@@ -42,3 +42,4 @@ def convlstm():
     model.add(Flatten())
     model.add(Dense(num_classes, activation='softmax'))
     model.summary()
+    return model
