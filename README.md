@@ -1,5 +1,7 @@
 # CANTransfer
-[CANTransfer: Transfer learning based intrusion detection on a controller area network using convolutional LSTM network](https://dl.acm.org/doi/abs/10.1145/3341105.3373868)
+[CANTransfer: Transfer learning based intrusion detection on a controller area network using convolutional LSTM network](https://dl.acm.org/doi/abs/10.1145/3341105.3373868).
+
+You can also check out our work on [CAN-ADF](https://github.com/shahroztariq/CAN-ADF).
 
 ## Citation
 
